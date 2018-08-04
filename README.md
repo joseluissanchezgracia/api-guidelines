@@ -2,7 +2,7 @@
 description: Guidelines for the API design and development at adidas
 ---
 
-# adidas API Guidelines
+# Customized adidas API Guidelines
 
 ![adidas logo](https://adidas-group.gitbooks.io/api-guidelines/content/assets/adidas-logo.svg)
 
